@@ -1,0 +1,11 @@
+Lecture - 1
+
+About Programming Languages
+
+Why C++?
+
+IDE
+
+HLL & LLL
+
+What happens after write a code?

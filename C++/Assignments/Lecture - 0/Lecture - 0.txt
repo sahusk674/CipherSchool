@@ -1,0 +1,7 @@
+Lecture - 0
+
+Brief discussion about the course.
+
+Setup of VS Code, GCC, MinGW etc.
+
+Prerequisite

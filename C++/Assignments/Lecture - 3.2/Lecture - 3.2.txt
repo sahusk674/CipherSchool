@@ -1,0 +1,3 @@
+Lecture - 3.2
+
+Code about Data types
