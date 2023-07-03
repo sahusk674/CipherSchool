@@ -1,0 +1,7 @@
+Lecture - 9.2
+
+Actual Parameter
+
+Formal Parameter
+
+Function prototypes
